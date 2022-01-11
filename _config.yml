@@ -20,12 +20,14 @@ timezone: Europe/London
 
 title: Spider's Stuff                          # the main title
 
-tagline: Not sure where this is going, but it's a thing.   # it will display as the sub-title
-
-description: >-                        # used by seo meta and the atom feed
+# Subtitle
+tagline: >-
   Is this a blog? Is this the real life, or is it fantasy?
   Not sure how much I'll use this but it's here now.
-  He/him.
+  He/him. Not a raccoon.
+
+description: >-                        # used by seo meta and the atom feed
+  Spider's stuff, a blog about things.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://spidervice.github.io'
@@ -43,13 +45,11 @@ social:
   email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://gtaforums.com/              # GTAForums
+    # TODO: Find a way of integrating some extra sites into the sidebar footer
+    #- https://gtaforums.com/              # GTAForums
     - https://twitter.com/SpiderVice      # change to your twitter homepage
     - https://github.com/spidervice       # change to your github homepage
-    - https://gitlab.com/spidervice       # GitLab
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    #- https://gitlab.com/spidervice       # GitLab
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -74,7 +74,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark   # [light|dark]
+theme_mode: dark   # Force to dark || Options: [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -84,7 +84,7 @@ theme_mode: dark   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
