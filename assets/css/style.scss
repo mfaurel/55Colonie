@@ -15,3 +15,8 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 [aria-label="email"] {
   display: none;
 }
+
+/* Avatar: remove animation on hover */
+#sidebar #avatar img:hover {
+  transform: none;
+}
