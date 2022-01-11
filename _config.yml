@@ -33,14 +33,6 @@ twitter:
 
 social:
   name: Spider-Vice                 # Post author name
-  email:                            # Email address (nah)
-  links:
-    # The first element serves as the copyright owner's link
-    # TODO: Find a way of integrating some extra sites into the sidebar footer
-    #- https://gtaforums.com/                          # GTAForums
-    - https://twitter.com/SpiderVice                   # change to your twitter homepage
-    - https://github.com/spidervice                    # change to your github homepage
-    #- https://gitlab.com/spidervice                   # GitLab
 
 # Google Site Verification stuff
 google_site_verification: google_meta_tag_verification
@@ -53,7 +45,7 @@ google_analytics:
     cache_path:                     # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
-theme_mode: dark   # Force to dark || Options: [light|dark]
+theme_mode: dark                    # Force to dark || Options: [light|dark]
 
 # The avatar on sidebar, supports local or CORS resources
 avatar: assets/img/avatar.jpg
