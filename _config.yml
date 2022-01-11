@@ -56,7 +56,7 @@ google_analytics:
 theme_mode: dark   # Force to dark || Options: [light|dark]
 
 # The avatar on sidebar, supports local or CORS resources
-avatar: assets/avatar.jpg
+avatar: assets/img/avatar.jpg
 
 # bool, enables or disables Table of Contents beside posts with headings
 toc: true
