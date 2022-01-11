@@ -9,9 +9,20 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 @import "{{ site.theme }}";
 
+/* --------------------------------------------------------------------------------------------------------- */
 /* append your custom style below */
+/* --------------------------------------------------------------------------------------------------------- */
 
-/* Avatar: remove animation on hover */
-#sidebar #avatar img:hover {
-  transform: none;
+/* Note the hierarchy! */
+#sidebar {                                            /* Global sidebar element */
+  #avatar {                                           /* Avatar on sidebar (sidebar -> avatar) */
+    > a:hover {                                       /* On hover... */
+      border-color: rgba(222, 222, 222, 0.7);       /* Force border colour to be the same as non-hover */
+    }
+    img {                                             /* Avatar image element (sidebar -> avatar -> img) */
+      &:hover {                                       /* On hover... */
+        transform: none;                              /* Set transform to none to remove animation */
+      }
+    }
+  }
 }
