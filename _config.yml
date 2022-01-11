@@ -33,6 +33,8 @@ twitter:
 
 social:
   name: Spider-Vice                 # Post author name
+  links:                            # First URL here will be used for when one clicks on the post author name
+    - https://twitter.com/SpiderVice
 
 # Google Site Verification stuff
 google_site_verification: google_meta_tag_verification
