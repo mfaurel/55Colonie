@@ -16,7 +16,7 @@ It was just a normal day yesterday. A day like any other, I get out of bed, have
 You see, sometimes in films and even those motivational texts, they always say that things can change suddenly, all of that stuff. And the truth is, they might be kind of lame, but realistic in the hardest moments.
 
 ## A "normal" day
-Later that day I go for a shower. It's warm and comfy in there, I usually take my time - I mean, who DOESN'T have shower thoughts and deep moments of introspection?! That is until someone from my household barges in and says they have to leave immediately as something is happening to another family member.
+Later that day I go for a shower. It's warm and comfy in there, I usually take my time - I mean, who DOESN'T have shower thoughts and deep moments of introspection?! That is until someone I'm with at home barges in and says they have to leave immediately as something is happening to another family member.
 
 This family member is not a blood family member, but it was someone we were all extremely close to. Saw very often. Someone that had their batteries constantly charged, saw life in such a positive and forward-thinking way, absolutely one of the coolest people I knew, even if our world views didn't really match (which kind of happens with most of my family anyway, let's say I might be a bit too "progressive" for some of them with more "traditional" ways of thinking, but I digress). 
 
@@ -25,7 +25,7 @@ This family member is not a blood family member, but it was someone we were all 
 ## Good news? Well...
  >"Good news, the lung cancer is smaller!" 
  
- The light at the end of the tunnel we were all waiting for. Could this be it? Lung cancer has one of the highest mortality rates... Well, unfortunately - no. It metastasised to their stomach. Treatments had to continue, with all the associated side effects, depleting their batteries even more than they could. The massive energy that emanated from them was all gone as they battled cancer.
+ A while after, the light at the end of the tunnel we were all waiting for. Could this be it? Lung cancer has one of the highest mortality rates... Well... unfortunately - no. It had metastasised to their stomach. Treatments had to continue, with all the associated side effects, depleting their batteries even more. The massive energy that emanated from them was all gone as they battled cancer.
 
 More and more the treatments (and the advancing of the cancer) start wearing them down. It complicates and they need to be hospitalised.  It's very common for chemo/immuno/radiotherapy or a combination of those to cause major health issues like anaemia and so on. So we all agreed that they needed an extra push, and not stay at home suffering like this, instead being taken care of in a hospital setting.
 
@@ -34,9 +34,9 @@ After this, it was all a blur. They were sent back home eventually, with their s
 ## Back to yesterday
 Despite everything, I still had some hope that all of these symptoms were just part of the cancer treatment. But just like there are many people who go through this and survive, then recover, others... don't.
 
-That shower was revealing. The moment I heard the panic coming from outside and people having to leave, I knew. I quickly finish and step out of the shower, expecting the worse. 20 minutes later I get a call. Yup, there it is.
+That shower was revealing. The moment I heard the panic coming from outside and people having to leave, I knew. I quickly finish as I'm left alone and step out of the shower, expecting the worse. 20 minutes later I get a call. Yup. There it is.
 
-A 40 year old that had all the energy in the world. I remember thinking they were cool since I was a wee one in the early 2000's. I remember listening to European electronic music hits because of them, as it was cool to play Trance music at the glass-breaking volume back then, to show everyone you were a clubber. Which they were in fact, as far as I've been told! [This track](https://www.youtube.com/watch?v=IksRDCMYnn8) has been stuck in my head since I was like 6 years old most probably, because of them.
+A 40 year old that had all the energy in the world. I remember thinking they were cool since I was a wee one in the early 2000's. I remember listening to European electronic music hits because of them, as it was cool to play Trance music at the glass-shattering volume back then, to show everyone you were a clubber. Which they were in fact, as far as I've been told! [This track](https://www.youtube.com/watch?v=IksRDCMYnn8) has been stuck in my head since I was like 6 years old most probably, because of them.
 
 All these years later, that battery is suddenly depleted with that god damned fucking thing called cancer. One of the most complex diseases known to humankind, one that is hard to fully manage, that is not handled the same by everyone, without a global treatment that can cure all types and fit all people. At the snap of a finger. 40 years of energy depleted in not even one year.
 
