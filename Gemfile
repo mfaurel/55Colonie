@@ -23,3 +23,8 @@ gem "webrick", "~> 1.7"
 
 # Compose
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+# Jekyll-Youtube - 18/04/2022
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end
