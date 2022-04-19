@@ -86,10 +86,19 @@ This will be updated with any news, I feel like I have an adventure ahead.
 -----------------------------------------------
 
 ## Updates
-### 19/04 3:45am BST
+### 19/04
 
 Late night update #1! It appears that Twitter has e-mailed me admitting that the ban was a mistake after my appeal!
 
 ![twitter-istherehope](/assets/img/posts/TwitterBan_20220418/6.png)
 
 ...except, although [the tweet](https://twitter.com/SpiderVice/status/1516114005680607245) has been restored, I still cannot access my account and it says I still need to wait 3 hours! It's no big deal, it unlocks early in the morning, but this 1. doesn't sound like what they said in the e-mail, 2. I have a feeling the "infraction" is still going to be staining my account in their back-end...
+
+
+### 19/04 2
+
+It's now the late morning, by now I've woken up, checked my phone and... it appears that I was indeed unbanned, I just had to click a button to confirm and proceed to Twitter. My question is - has the "infraction" been removed from my account so they don't accidentally think I'm sharing explicit content "again" and ban me for good? Because it sure as hell sounded like that in the e-mail, except it also said I should've been unbanned overnight and I wasn't, I still had to wait util 7am.
+
+I suppose at least the tweet also got restored! But I would have appreciated far more communication from Twitter and they really, REALLY need to get their auto moderation shit together.
+
+Hopefully this is the end of it, over two accounts and 9 years on the platform I don't think I had ever been banned for such a supposed "severe offence" out of the blue, when it wasn't even anything of the sort.
