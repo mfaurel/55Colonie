@@ -20,10 +20,10 @@ tabs:
 search:
   hint: search
   cancel: Cancel
-  no_results: Oops! No result founds.
+  no_results: Oops! No result found.
 
 panel:
-  lastmod: Recent Update
+  lastmod: Recently Updated
   trending_tags: Trending Tags
   toc: Contents
 
