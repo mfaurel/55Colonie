@@ -82,3 +82,14 @@ This kind of thing should not be happening in 2022. With all the advancements in
 Twitter is full of bigotry, hate, phobias, ableism, you name it, you sometimes report these people and literally nothing happens, they get away scot free. Meanwhile... Sigh.
 
 This will be updated with any news, I feel like I have an adventure ahead.
+
+-----------------------------------------------
+
+## Updates
+### 19/04 3:45am BST
+
+Late night update #1! It appears that Twitter has e-mailed me admitting that the ban was a mistake after my appeal!
+
+![twitter-istherehope](/assets/img/posts/TwitterBan_20220418/6.png)
+
+...except, although [the tweet](https://twitter.com/SpiderVice/status/1516114005680607245) has been restored, I still cannot access my account and it says I still need to wait 3 hours! It's no big deal, it unlocks early in the morning, but this 1. doesn't sound like what they said in the e-mail, 2. I have a feeling the "infraction" is still going to be staining my account in their back-end...
