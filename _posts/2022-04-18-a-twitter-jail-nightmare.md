@@ -97,7 +97,7 @@ Late night update #1! It appears that Twitter has e-mailed me admitting that the
 
 ### 19/04 2
 
-It's now the late morning, by now I've woken up, checked my phone and... it appears that I was indeed unbanned, I just had to click a button to confirm and proceed to Twitter. My question is - has the "infraction" been removed from my account so they don't accidentally think I'm sharing explicit content "again" and ban me for good? Because it sure as hell sounded like that in the e-mail, except it also said I should've been unbanned overnight and I wasn't, I still had to wait util 7am.
+It's now the late morning, by now I've woken up, checked my phone and... it appears that I was indeed unbanned, I just had to click a button to confirm and proceed to Twitter. My question is - has the "infraction" been removed from my account so they don't accidentally think I'm sharing explicit content "again" and ban me for good? Because it sure as hell sounded like that in the e-mail, except it also said I should've been unbanned overnight and I wasn't, I still had to wait until 7am.
 
 I suppose at least the tweet also got restored! But I would have appreciated far more communication from Twitter and they really, REALLY need to get their auto moderation shit together.
 
