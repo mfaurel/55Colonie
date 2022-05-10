@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 # Leaving just in case
-baseurl: ''
+baseurl: '55colonie'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/London
@@ -23,7 +23,7 @@ description: >-
   Spider's stuff - not sure how much I'll use this but it's here now.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://mfaurel.github.io/blogtest/'
+url: 'https://mfaurel.github.io/55colonie/'
 
 github:
   username: mfaurel              # change to your github username
