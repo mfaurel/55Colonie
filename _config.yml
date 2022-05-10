@@ -23,13 +23,13 @@ description: >-
   Spider's stuff - not sure how much I'll use this but it's here now.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://spidervice.github.io'
+url: 'https://mfaurel.github.io/blogtest/'
 
 github:
-  username: spidervice              # change to your github username
+  username: mfaurel              # change to your github username
 
 twitter:
-  username: SpiderVice              # change to your twitter username
+  username: mfaurel              # change to your twitter username
 
 social:
   name: Spider-Vice                 # Post author name
