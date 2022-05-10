@@ -11,30 +11,21 @@ baseurl: '55colonie'
 timezone: Europe/London
 
 # Site title
-title: Spider's Stuff
+title: 55 rue de la colonie
 
 # Subtitle
 tagline: >-
-  Not sure how much I'll use this but it's here now.
-  He/him.
+  Vie de l'immeuble
 
 # Used by seo meta and the atom feed
 description: >-                        
-  Spider's stuff - not sure how much I'll use this but it's here now.
+  55 rue de la colonie
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://mfaurel.github.io/55colonie/'
+url: 'https://mfaurel.github.io/55colonie'
 
 github:
   username: mfaurel              # change to your github username
-
-twitter:
-  username: mfaurel              # change to your twitter username
-
-social:
-  name: Spider-Vice                 # Post author name
-  links:                            # First URL here will be used for when one clicks on the post author name
-    - https://twitter.com/SpiderVice
 
 # Google Site Verification stuff
 google_site_verification: google_meta_tag_verification
