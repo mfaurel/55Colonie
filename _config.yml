@@ -27,6 +27,9 @@ url: 'https://mfaurel.github.io/55colonie'
 github:
   username: mfaurel              # change to your github username
 
+social:
+  name: Mr. Faurel                 # Post author name
+
 # Google Site Verification stuff
 google_site_verification: google_meta_tag_verification
 
