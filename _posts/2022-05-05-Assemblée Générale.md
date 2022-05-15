@@ -21,15 +21,15 @@ Plusieurs personnes représentées en séance ou ayant envoyé leur vote par cor
 - Attention aux canalisations qui peuvent se boucher très facilement (bouchons de calcaire, coudes en Y).
 
 ## Ordre du jour
-- *1* Mr Co. président de séance</br>
-- *2* Mr Gu. assesseur</br>
-- *5* Double facture payée de ~200€ à retirer pour le prochain exercice</br>
-- *7* Syndic renouvelé. Contrat négocié et remise accordée.</br>
-- *8* Différents membres actuels du CS non présents à la réunion : Mme Th., - Mr Ga., Mr JVDB, Mr Mo. (représenté en séance).</br>
-    - Tous les membres du conseil syndical ont été réélus à la majorité.</br>
-    - Mr Fa. rejoint le conseil syndical.</br>
-- *9 à 13* Budget approuvé</br>
-- *14* Non pertinent. Les lois changent énormément. Un diagnostic fait cette année pourrait être obsolète l'année prochaine</br>
+- *1* Mr Co. président de séance
+- *2* Mr Gu. assesseur
+- *5* Double facture payée de ~200€ à retirer pour le prochain exercice
+- *7* Syndic renouvelé. Contrat négocié et remise accordée.
+- *8* Différents membres actuels du CS non présents à la réunion : Mme Th., - Mr Ga., Mr JVDB, Mr Mo. (représenté en séance).
+    - Tous les membres du conseil syndical ont été réélus à la majorité.
+    - Mr Fa. rejoint le conseil syndical.
+- *9 à 13* Budget approuvé
+- *14* Non pertinent. Les lois changent énormément. Un diagnostic fait cette année pourrait être obsolète l'année prochaine
 - *15* Non pertinent. Il n'est pas nécessaire de payer pour ce type de calcul. Il faut chercher un moyen de faire des économies ailleurs (dates de début et de fin de chauffage, diminution des températures...)
 - *16* Non demandé. Un appel à concurrence devra être effectué pour baisser les coûts.
 - *17-18-22* Le curage risque d'exploser les canalisations vieillissantes. Une analyse par sondage est préférable et un traitement localisé devra être effectué.
