@@ -1,14 +1,14 @@
 ---
-title: AG2
-date: 2022-05-05 22:18:02 +0100
+title: AG 3
+date: 2022-05-05 22:18:00 +0100
 categories: [AG, Réunion]
 tags: [AG, colonie, vie]
 ---
 
-## Contexte2
-Alpha Beta Gamma
+## Contexte
+Assemblée générale ordinaire
 
-## Points généraux2
+## Points généraux
 
 Environ 37 personnes sur 63.
 Plusieurs personnes représentées en séance ou ayant envoyé leur vote par correspondance.
