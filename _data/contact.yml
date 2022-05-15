@@ -1,21 +1,9 @@
 #  The contact options.
 
 -
-  type: gtaforums
-  icon: 'fas fa-fighter-jet'
-  url:  'https://gtaforums.com'
--
   type: github
   icon: 'fab fa-github'
-  url:  'https://github.com/SpiderVice/spidervice.github.io'
--
-  type: gitlab
-  icon: 'fab fa-gitlab'
-  url:  'https://gitlab.com/SpiderVice'
--
-  type: twitter
-  icon: 'fab fa-twitter'
-  url:  'https://twitter.com/SpiderVice'
+  url:  'https://github.com/mfaurel/55colonie'
 #-
 #  type: rss
 #  icon: 'fas fa-rss'

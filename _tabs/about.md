@@ -1,8 +1,7 @@
 ---
-title: It's me!
+title: Présentation
 icon: fas fa-info-circle
 order: 4
 ---
-Hiya! I swear I'll type something here soon. Maybe. Maaaaaaybe.
 
-For now find me on [Twitter](https://twitter.com/SpiderVice) and why don't you go and do something cool like donate to charity?
+Je suis membre du conseil syndical et souhaite ouvrir les informations à tout le monde pour consultation.
