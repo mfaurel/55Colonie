@@ -5,7 +5,7 @@ categories: [Vie de l'immeuble]
 tags: [actions, colonie, vie]
 ---
 
-## Actions de l'année
+## Actions à faire de l'année 2022
 - Mai : fermeture du chauffage collectif 
 - 15 Octobre : allumer le chauffage collectif
 - Grille de l'escalier pour descendre à la cave à insonoriser
@@ -14,7 +14,7 @@ tags: [actions, colonie, vie]
 - Vérifier que les extincteurs sont bien maintenus
 - Vérifier que les ascenseurs sont bien maintenus
 
-## Actions 
+## Actions à faire (général)
 - Vérifier l'état des canalisations par caméra
 - Nettoyage des parties communes + rafraîchissement 
 - Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr P. de faire une étude)
