@@ -17,10 +17,11 @@ tags: [actions, colonie, vie]
 ## Actions à faire (général)
 - Vérifier l'état des canalisations par caméra
 - Nettoyage des parties communes + rafraîchissement 
+- Nettoyage de la cave
 - Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr Pi. de faire une étude)
 
 ## Principales charges 
-- Electricité ~1700€ par mois.
+- Electricité ~1700€ par mois
 - Gaz de chauffage ~1100€ par mois
 - Assurance immeuble ~1000€ par mois
 - Nettoyage parties communes ~780€ par mois
@@ -33,3 +34,7 @@ tags: [actions, colonie, vie]
 - Où est la facture du syndic dans les documents ?
 - ATS ATPE ~70€ par mois (à quoi cela correspond-il ?)
 - THOP ~1k par mois (à quoi cela correspond-il ?)
+- Fluctuations de l'électricité<br/>
+![EDF](/assets/img/EDF20212022.JPG?raw=true "EDF")
+- Fluctuations du gaz<br/>
+![Gaz](/assets/img/Gaz2021.JPG?raw=true "EDF")
