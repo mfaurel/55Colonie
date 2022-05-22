@@ -35,6 +35,6 @@ tags: [actions, colonie, vie]
 - ATS ATPE ~70€ par mois (à quoi cela correspond-il ?)
 - THOP ~1k par mois (à quoi cela correspond-il ?)
 - Fluctuations de l'électricité<br/>
-![EDF](/assets/img/EDF20212022.JPG?raw=true "EDF")
+![EDF](assets/img/EDF20212022.JPG?raw=true "EDF")
 - Fluctuations du gaz<br/>
-![Gaz](/assets/img/Gaz2021.JPG?raw=true "EDF")
+![Gaz](assets/img/Gaz2021.JPG?raw=true "EDF")
