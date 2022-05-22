@@ -10,8 +10,8 @@ Assemblée générale ordinaire
 
 ## Points généraux
 
-Environ 37 personnes sur 63.
-Plusieurs personnes représentées en séance ou ayant envoyé leur vote par correspondance.
+32 copropriétaires présents ou représentés. 
+8 votes par correspondance.
 
 - Il va y avoir un changement d'opérateur téléphonique dans les ascenseurs. Actuellement, Orange s'en occupe mais cela sera basculé par le prestataire Koné ce qui diminuera les coûts.
 
@@ -25,7 +25,7 @@ Plusieurs personnes représentées en séance ou ayant envoyé leur vote par cor
 - *2* Mr Gu. assesseur
 - *5* Double facture payée de ~200€ à retirer pour le prochain exercice
 - *7* Syndic renouvelé. Contrat négocié et remise accordée.
-- *8* Différents membres actuels du CS non présents à la réunion : Mme Th., - Mr Ga., Mr JVDB, Mr Mo. (représenté en séance).
+- *8* Différents membres actuels du CS non présents à la réunion : Mr Ga., Mr JVDB, Mr Mo. (représenté en séance).
     - Tous les membres du conseil syndical ont été réélus à la majorité.
     - Mr Fa. rejoint le conseil syndical.
 - *9 à 13* Budget approuvé
