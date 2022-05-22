@@ -18,3 +18,11 @@ tags: [actions, colonie, vie]
 - Vérifier l'état des canalisations par caméra
 - Nettoyage des parties communes + rafraîchissement 
 - Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr P. de faire une étude)
+
+## Principales charges 
+- Electricité ~1700€ par mois.
+- Gaz de chauffage ~1100€ par mois
+- Nettoyage parties communes ~780€ par mois
+- Orange (téléphone ascenseur) ~70€ par mois
+- ATS ATPE ~70 par mois (à quoi cela correspond-il ?)
+- THOP ~1k par mois (à quoi cela correspond-il ?)
