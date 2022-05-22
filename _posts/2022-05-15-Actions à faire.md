@@ -37,4 +37,4 @@ tags: [actions, colonie, vie]
 - Fluctuations de l'électricité<br/>
 ![EDF](/55colonie/assets/img/EDF20212022.JPG?raw=true "EDF")
 - Fluctuations du gaz<br/>
-![Gaz](assets/img/Gaz2021.JPG?raw=true "EDF")
+![Gaz](/55colonie/assets/img/Gaz2021.JPG?raw=true "EDF")
