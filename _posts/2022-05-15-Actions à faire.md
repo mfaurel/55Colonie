@@ -9,7 +9,7 @@ tags: [actions, colonie, vie]
 - Mai : fermeture du chauffage collectif 
 - 15 Octobre : allumer le chauffage collectif
 - Grille de l'escalier pour descendre à la cave à insonoriser
-- Contrat de maintenance de l'ascenseur à challenger (au regard des montants Bobillot)
+- Contrat de maintenance de l'ascenseur + téléphone à challenger (au regard des montants Bobillot)
 - Travaux sur les terrasses problématiques
 - Vérifier que les extincteurs sont bien maintenus
 - Vérifier que les ascenseurs sont bien maintenus
@@ -22,7 +22,14 @@ tags: [actions, colonie, vie]
 ## Principales charges 
 - Electricité ~1700€ par mois.
 - Gaz de chauffage ~1100€ par mois
+- Assurance immeuble ~1000€par mois
 - Nettoyage parties communes ~780€ par mois
+- Taxe balayage ~120€ par mois
+- Maintenance Ascenseur ~80€ par mois
 - Orange (téléphone ascenseur) ~70€ par mois
+
+## Questions 
+- Pourquoi payer Dany Copy pour les nouvelles plaques si Hall Service est censé le faire ?
+- Où est la facture du syndic dans les documents ?
 - ATS ATPE ~70 par mois (à quoi cela correspond-il ?)
 - THOP ~1k par mois (à quoi cela correspond-il ?)
