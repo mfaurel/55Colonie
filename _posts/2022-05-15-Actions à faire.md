@@ -11,6 +11,8 @@ tags: [actions, colonie, vie]
 - Grille de l'escalier pour descendre à la cave à insonoriser
 - Contrat de maintenance de l'ascenseur à challenger (au regard des montants Bobillot)
 - Travaux sur les terrasses problématiques
+- Vérifier que les extincteurs sont bien maintenus
+- Vérifier que les ascenseurs sont bien maintenus
 
 ## Actions 
 - Vérifier l'état des canalisations par caméra
