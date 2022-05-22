@@ -17,12 +17,12 @@ tags: [actions, colonie, vie]
 ## Actions à faire (général)
 - Vérifier l'état des canalisations par caméra
 - Nettoyage des parties communes + rafraîchissement 
-- Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr P. de faire une étude)
+- Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr Pi. de faire une étude)
 
 ## Principales charges 
 - Electricité ~1700€ par mois.
 - Gaz de chauffage ~1100€ par mois
-- Assurance immeuble ~1000€par mois
+- Assurance immeuble ~1000€ par mois
 - Nettoyage parties communes ~780€ par mois
 - Taxe balayage ~120€ par mois
 - Maintenance Ascenseur ~80€ par mois
@@ -31,5 +31,5 @@ tags: [actions, colonie, vie]
 ## Questions 
 - Pourquoi payer Dany Copy pour les nouvelles plaques si Hall Service est censé le faire ?
 - Où est la facture du syndic dans les documents ?
-- ATS ATPE ~70 par mois (à quoi cela correspond-il ?)
+- ATS ATPE ~70€ par mois (à quoi cela correspond-il ?)
 - THOP ~1k par mois (à quoi cela correspond-il ?)
