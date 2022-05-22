@@ -36,4 +36,4 @@ Assemblée générale ordinaire
 - *19* Approuvé.
 - *20* Refusé
 - *21* Mr Pi. s'est proposé pour établir une étude avant une potentielle commande.
-- *23* L'appartement de Mr Co. a été vendu. Un remboursement des frais judiciaires engagés et des impayés et prévu en fin d'année.
+- *23* L'appartement de Mr Co. a été vendu. Un remboursement des frais judiciaires engagés et des impayés est prévu en fin d'année.
