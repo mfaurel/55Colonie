@@ -1,13 +1,7 @@
-## Hello!
-A GitHub Pages site based on [**Chirpy**][chirpy] and its starter project. !
+## Bonjour
+Ceci est un site pour mettre en visibilité certains points de notre copropriété et suivre les avancées.
 
-[Licence][licence]
-
-<sub>I'm sure my Windows install enjoyed getting MSYS stuck on it while it already had WSL and I was too lazy to use it for Ruby.</sub>
-
-### Misc. Credits
-Favicon from [OpenMoji](https://openmoji.org/) and generated with [RealFaviconGenerator](https://realfavicongenerator.net/). 🕸
-
-[URL variables]::
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[licence]: LICENSE
+### Données
+Les données sont pseudonomysées et les informations ne sont pas contractuelles.
+Merci de vérifier toutes les informations.
+Les données sont qualitatives pour permettre d'avancer et de suivre les sujets.
