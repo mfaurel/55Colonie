@@ -5,18 +5,13 @@ categories: [Vie de l'immeuble]
 tags: [actions, colonie, vie]
 ---
 
-## Actions à faire de l'année 2022
-- Mai : fermeture du chauffage collectif 
-- 15 Octobre : allumer le chauffage collectif
+## Actions à faire (2022)
 - Grille de l'escalier pour descendre à la cave à insonoriser
 - Contrat de maintenance de l'ascenseur + téléphone à challenger (au regard des montants Bobillot)
-- Travaux sur les terrasses problématiques
 - Vérifier que les extincteurs sont bien maintenus
 - Vérifier que les ascenseurs sont bien maintenus
-
-## Actions à faire (général)
 - Vérifier l'état des canalisations par caméra
-- Nettoyage des parties communes + rafraîchissement 
+- Nettoyage des parties communes + rafraîchissement de la cage d'escalier
 - Nettoyage de la cave
 - Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr Pi. de faire une étude)
 
@@ -38,3 +33,8 @@ tags: [actions, colonie, vie]
 ![EDF](/55colonie/assets/img/EDF20212022.JPG?raw=true "EDF")
 - Fluctuations du gaz<br/>
 ![Gaz](/55colonie/assets/img/Gaz2021.JPG?raw=true "EDF")
+
+## Fait
+- Mai : fermeture du chauffage collectif 
+- Début novembre : allumer le chauffage collectif
+- Travaux sur les terrasses problématiques
