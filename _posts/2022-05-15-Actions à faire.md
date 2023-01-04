@@ -9,6 +9,8 @@ tags: [actions, colonie, vie]
 - Contrat de maintenance de l'ascenseur + téléphone à challenger (au regard des montants Bobillot)
 - Vérifier l'état des canalisations par caméra
 - Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr Pi. de faire une étude)
+- Remplacement de la vitre feuilletée (vitre brisée fin décembre 2022)
+- Trou dans la colonne du local poubelles
 
 ## Principales charges 
 - Electricité ~1700€ par mois
