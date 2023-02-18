@@ -6,21 +6,16 @@ tags: [actions, colonie, vie]
 ---
 
 ## Actions à faire (2022)
+- Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr Pi. de faire une étude)
 - Contrat de maintenance de l'ascenseur + téléphone à challenger (au regard des montants Bobillot)
 - Vérifier l'état des canalisations par caméra
-- Rafraîchissement du hall d'entrée et de la rampe (proposition de Mr Pi. de faire une étude)
-- Remplacement de la vitre feuilletée (vitre brisée fin décembre 2022)
 - Trou dans la colonne du local poubelles
 
-## Principales charges 
-- Electricité ~1700€ par mois
-- Gaz de chauffage ~1100€ par mois
-- Assurance immeuble ~1000€ par mois
-- Nettoyage parties communes ~780€ par mois
-- Taxe balayage ~120€ par mois
-- Maintenance Ascenseur ~80€ par mois
-- Orange (téléphone ascenseur) ~70€ par mois
-- Syndic ???
+## Mail envoyé
+- Demande d'état d'avancement sur le contrat de l'ascenseur, l'état des canalisations par caméra et du trou de la colonne dans le local poubelles le 8/1/2023
+
+## Problème résidentiel
+Mr VDB du conseil syndical : raciste (B...) + calomnieux & insultant (mails du 7/1/2023 envoyés au conseil syndical et au syndic). 
 
 ## Questions 
 - Pourquoi payer Dany Copy pour les nouvelles plaques si Hall Service est censé le faire ?
@@ -37,3 +32,4 @@ tags: [actions, colonie, vie]
 - Vérifier que les extincteurs sont bien maintenus
 - Vérifier que les ascenseurs sont bien maintenus
 - Nettoyage des parties communes
+- Remplacement de la vitre feuilletée 02/2023 (vitre brisée fin décembre 2022)
