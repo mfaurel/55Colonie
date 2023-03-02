@@ -11,6 +11,8 @@ tags: [actions, colonie, vie]
 - Vérifier l'état des canalisations par caméra
 - Trou dans la colonne du local poubelles
 - Modernisation des vannes d'eau chaude de la cave
+- Rapport du bureau technique établi pour les travaux de BMW (RDC & garage)
+- Visite de réception des travaux d'étanchéité des terrasses
 
 ## Mail envoyé
 - Demande d'état d'avancement sur le contrat de l'ascenseur, l'état des canalisations par caméra et du trou de la colonne dans le local poubelles le 8/1/2023
