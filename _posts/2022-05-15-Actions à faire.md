@@ -10,6 +10,7 @@ tags: [actions, colonie, vie]
 - Contrat de maintenance de l'ascenseur + téléphone à challenger (au regard des montants Bobillot)
 - Vérifier l'état des canalisations par caméra
 - Trou dans la colonne du local poubelles
+- Modernisation des vannes d'eau chaude de la cave
 
 ## Mail envoyé
 - Demande d'état d'avancement sur le contrat de l'ascenseur, l'état des canalisations par caméra et du trou de la colonne dans le local poubelles le 8/1/2023
